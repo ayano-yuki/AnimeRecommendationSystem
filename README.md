@@ -25,7 +25,7 @@ source .venv/bin/activate    # Linux/Mac
 
 ### 2. データセットの準備
 
-Kaggleの「Anime Recommendation Database 2020」データセットを `data/` ディレクトリに配置：
+Kaggleの「[Anime Recommendation Database 2020](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020)」データセットを `data/` ディレクトリに配置：
 
 ```
 data/
